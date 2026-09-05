@@ -1,0 +1,23 @@
+# Generated experiment artifacts
+*.npz
+*.npy
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environments / local config
+.venv/
+venv/
+.env
+
+# Backups / editor files
+*.bak
+*~
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
